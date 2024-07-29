@@ -102,7 +102,7 @@
         }
 
         // 3-D arrays (first method)
-    */  
+    
         
 
         int [][][] flats1 = {{{1,2,3},{1,2,3},{1,2,3}},{{1,2,3},{1,2,3},{1,2,3}},{{1,2,3},{1,2,3},{1,2,3}}} ;
@@ -121,7 +121,7 @@
                System.out.println();
             }
         }
-
+  */
     // 3-D arrays (second method)
 
         //for next time  
